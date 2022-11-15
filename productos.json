@@ -1,0 +1,50 @@
+[
+  {
+    "nombre": "Crema de manos Neroli Orquideas",
+    "precio": "$1200",
+    "marca": "Semilla",
+    "id": 1
+  },
+  {
+    "nombre": "Crema de manos Neroli Orquideas",
+    "precio": "$1200",
+    "marca": "Semilla",
+    "id": 2
+  },
+  {
+    "nombre": "Crema de cuerpo Neroli Orquideas",
+    "precio": "$2100",
+    "marca": "Semilla",
+    "id": 3
+  },
+  {
+    "nombre": "Esmalte Base Coat",
+    "precio": "$1100",
+    "marca": "Semilla",
+    "id": 4
+  },
+  {
+    "nombre": "Esmalte Top Coat",
+    "precio": "$1200",
+    "marca": "Semilla",
+    "id": 5
+  },
+  {
+    "nombre": "Agua Micelar",
+    "precio": "$1400",
+    "marca": "Semilla",
+    "id": 6
+  },
+  {
+    "nombre": "Crema de manos Neroli Orquideas",
+    "precio": "$1200",
+    "marca": "Semilla",
+    "id": 7
+  },
+  {
+    "nombre": "Crema de cuerpo Neroli Orquideas",
+    "precio": "$2100",
+    "marca": "Semilla",
+    "id": 8
+  }
+]
